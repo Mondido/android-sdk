@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MondidoSdk">
+    <output-path>$PROJECT_DIR$/out/artifacts/MondidoSdk</output-path>
+    <root id="archive" name="MondidoSdk.jar">
+      <element id="module-output" name="mondido-sdk" />
+      <element id="directory" name="src">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+    </root>
+  </artifact>
+</component>
